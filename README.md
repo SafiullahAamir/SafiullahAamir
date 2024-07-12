@@ -21,7 +21,8 @@ I am currently looking for internship opportunities in web development where I c
 
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/safiullah-aamir
-- Email: safiullah.aamir@gmail.com
+- Email:
+safiullah.aamir@gmail.com
 
 ## 📊 GitHub Stats! https://github-readme-stats.vercel.app/api?username=SafiullahAamir&show_icons=true&theme=radical
 
