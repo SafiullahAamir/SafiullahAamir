@@ -3,7 +3,7 @@
 I'm a computer science student with a passion for web development. Currently, I am in my second semester of my CS degree and have developed a solid foundation in programming, problem-solving, and software development principles. I'm actively seeking internship opportunities to further hone my skills and gain real-world experience.
 
 ## 🛠 Technical Skills
-- **Languages**: C++, HTML, CSS
+- **Languages**: C++, HTML, CSS, JS
 - **Concepts**: Object-Oriented Programming, Data Structures, Algorithms, File Handling
 
 ## 📚 Coursework
