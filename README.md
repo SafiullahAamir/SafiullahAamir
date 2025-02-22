@@ -1,34 +1,31 @@
-# Hi there, I'm Safiullah! 👋
+# Hi there, I'm Safiullah! 👋  
 
-I'm a computer science student with a passion for web development. Currently, I am in my second semester of my CS degree and have developed a solid foundation in programming, problem-solving, and software development principles. I'm actively seeking internship opportunities to further hone my skills and gain real-world experience.
+I'm a computer science student with a passion for technology and problem-solving. Currently, I am in my **fourth semester** of my CS degree, exploring fields like **networking, DevOps, data science, and AI**. I have a strong foundation in programming, algorithms, and software development principles and love working on innovative projects.  
 
-## 🛠 Technical Skills
-- **Languages**: C++, HTML, CSS, JS
-- **Concepts**: Object-Oriented Programming, Data Structures, Algorithms, File Handling
+## 🛠 Technical Skills  
+- **Languages**: C++, Python, Bash  
+- **Concepts**: Data Structures and Algorithms, Object-Oriented Programming, File Handling, Networking Basics  
+- **Technologies**: Linux, Git, Docker, Cloud Computing (basic)  
 
-## 📚 Coursework
-- Programming Fundamentals
-- Object-Oriented Programming
-- Problem Solving
-- File Handling
-- Introduction to Computer Science
+## 📚 Coursework  
+- Data Structures and Algorithms  
+- Object Oriented Programming
+- Computer Networks  
+- Database Systems  
+- Problem Solving & Programming  
 
-## 📈 Achievements
-- Consistently ranked among the top students in my class
+## 📈 Achievements  
+- Developed an **Academic Directory System** using **DSA concepts** as a project  
+- Consistently ranked among the top students in my class  
 
-## 🌱 What I'm Looking For
-I am currently looking for internship opportunities in web development where I can contribute to real projects, learn from experienced developers, and continue to grow my technical skills.
+## 🌱 What I'm Looking For  
+I am actively seeking opportunities to work on real-world projects and enhance my expertise in **networking, DevOps, and AI-related fields**. Always eager to learn and collaborate with like-minded individuals!  
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/safiullah-aamir
-- Email:
-safiullah.aamir@gmail.com
+## 📫 How to Reach Me  
+- **LinkedIn**: [linkedin.com/in/safiullah-aamir](https://www.linkedin.com/in/safiullah-aamir)  
+- **Email**: safiullah.aamir@gmail.com  
 
-## 📊 GitHub Stats! https://github-readme-stats.vercel.app/api?username=SafiullahAamir&show_icons=true&theme=radical
+## 📊 GitHub Stats!  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafiullahAamir&show_icons=true&theme=radical)  
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
-
-<!---
-SafiullahAamir/SafiullahAamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.  
