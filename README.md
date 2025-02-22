@@ -3,7 +3,7 @@
 I'm a computer science student with a passion for technology and problem-solving. Currently, I am in my **fourth semester** of my CS degree, exploring fields like **networking, DevOps, data science, and AI**. I have a strong foundation in programming, algorithms, and software development principles and love working on innovative projects.  
 
 ## 🛠 Technical Skills  
-- **Languages**: C++, Python, Bash  
+- **Languages**: C++, Python
 - **Concepts**: Data Structures and Algorithms, Object-Oriented Programming, File Handling, Networking Basics  
 - **Technologies**: Linux, Git, Docker, Cloud Computing (basic)  
 
